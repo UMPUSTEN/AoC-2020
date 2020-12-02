@@ -27,7 +27,7 @@ let correctPasswords = input.filter {
 
 print(correctPasswords.count)
 
-//MARK: Day 2 Part 1 -
+//MARK: Day 2 Part 2 -
 
 let newRulePasswords = input.filter {
     
@@ -47,7 +47,7 @@ let newRulePasswords = input.filter {
 
 print(newRulePasswords.count)
 
-
+//MARK: Input -
 
 public let inputDay2 = """
 1-8 n: dpwpmhknmnlglhjtrbpx
