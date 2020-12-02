@@ -7,7 +7,7 @@
 
 import Foundation
 
-let input = splitInputByLines(input: inputDay2)
+let input = inputDay2.split { $0 == "\n" }
 
 //MARK: Day 2 Part 1 -
 
