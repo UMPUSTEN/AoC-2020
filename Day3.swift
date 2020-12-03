@@ -43,15 +43,10 @@ print("Day 3 Part 2 ---")
 var slopes = [Int]()
 
 slopes.append(runSlope(slide: 1, drop: 1))
-print(slopes[0])
 slopes.append(runSlope(slide: 3, drop: 1))
-print(slopes[0])
 slopes.append(runSlope(slide: 5, drop: 1))
-print(slopes[0])
 slopes.append(runSlope(slide: 7, drop: 1))
-print(slopes[0])
 slopes.append(runSlope(slide: 1, drop: 2))
-print(slopes[0])
 
 print(slopes.reduce(1, *))
 
