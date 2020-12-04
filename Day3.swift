@@ -1,8 +1,8 @@
 //
-//  Day2.swift
+//  Day3.swift
 //  iOS
 //
-//  Created by UMPUSTEN on 02.12.20.
+//  Created by UMPUSTEN on 03.12.20.
 //
 
 import Foundation
